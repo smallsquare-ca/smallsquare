@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Smallsquare Digital Marketing</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Smallsquare Digital Marketing" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Contact info@smallsquare.ca to get in touch <code>pages/index.js</code>
         </p>
       </main>
 
